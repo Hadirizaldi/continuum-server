@@ -1,0 +1,22 @@
+# Binary
+/bin/
+*.exe
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Storage (runtime data)
+/storage/
+
+# Go
+/vendor/
+
+# Internal docs
+/prd/
